@@ -17,7 +17,7 @@ echo "$line"
 
 echo "1. Gaia with GPU"
 echo "2. Gaia with CPU only"
-read -p "Choose opsi (1 atau 2): " choose
+read -p "Choose opsi (1 or 2): " choose
 
 if [ "$choose" == "1" ]; then
 
