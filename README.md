@@ -1,1 +1,3 @@
-# Gaia-Node
+# AUTO RUN GAIA NODE USING GPU AND CPU ONLY
+```
+wget -O gaia.sh 
